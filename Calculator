@@ -1,2 +1,12 @@
 Console.WriteLine("Abdul Rehman");
 Console.WriteLine("SET-041");
+int a = 10;
+int b = 20;
+int sum = a+b;
+Console.WriteLine("The sum of two numbers is " + sum);
+int subtraction = a-b;
+Console.WriteLine("The subtraction of two numbers is " +Subtraction);
+int multiplication = a*b;
+Console.WriteLine("The multiplication of two numbers is"+multiplication);
+int div = a/b;
+Console.WriteLine("The division of two numbers is" + division);
