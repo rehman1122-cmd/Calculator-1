@@ -1,2 +1,6 @@
 Console.WriteLine("Abdul Rehman");
 Console.WriteLine("SET-041");
+int a = 10;
+int b = 20;
+int sum = a+b;
+Console.WriteLine("The sum of two numbers is " + sum);
